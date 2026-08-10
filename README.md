@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como uma prática dos conhecimentos adquiridos em 
 
 Trata-se de um projeto introdutório, desenvolvido por uma estudante em fase inicial de aprendizado na área de dados, buscando explorar a linguagem **R** e compreender melhor o processo de tratamento, análise e interpretação de uma base de dados real.
 
-A análise utiliza registros de **Comunicação de Acidente de Trabalho (CAT)** disponibilizados pelo **Instituto Nacional do Seguro Social (INSS)**, tendo como recorte os acidentes de trabalho ocorridos no setor da **construção civil durante o mês de maio de 2026**.
+A análise utiliza registros de **Comunicação de Acidente de Trabalho (CAT)** disponibilizados pelo **Instituto Nacional do Seguro Social (INSS)**, tendo como recorte os acidentes de trabalho ocorridos no setor da **construção civil entre os meses de janeiro e maio de 2026**.
 
 O objetivo não é realizar uma análise definitiva sobre a segurança do trabalho no setor, mas sim aplicar na prática técnicas de análise exploratória de dados, identificando padrões e informações relevantes presentes na base.
 
